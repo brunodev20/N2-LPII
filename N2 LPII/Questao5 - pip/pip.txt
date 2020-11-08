@@ -1,0 +1,5 @@
+O que é o pip?
+
+pip é um sistema de gerência de pacotes utilizado para instalar pacotes Python. Muitas distribuições Python venham com o pip já instalado.
+
+O pip é bastante conhecido por ser bem fácil de lidar nas linhas de comando, tornando a sua instalçao de pacotes Python bem agilizada e não tão complicada.
